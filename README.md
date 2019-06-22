@@ -1,7 +1,7 @@
 # Packs_Installer
 This is a python script used for installing some needed packs for UBUNTU based distros to help you save your time and don't waste it searching for commands to install these packs
 
-## Note that: you have to change directory in terminal to the repo directory or open the terminal in the repo dir to run this program successfully, have python3 as a default interpreter and have an internet connection
+## Note that: you have to change directory in terminal to the repo directory or open the terminal in the repo dir, have python3 and have an internet connection to run this program successfully
 to check the python version write in your terminal 
 ```
 $ python --version
@@ -19,19 +19,17 @@ If Python 3.x.x exist instead of Python 2.x.x so you can **skip step 1** and jus
 ```
 $ bash py3_installer
 ```
-* write password then you will need pressing ENTER so do and just wait for installing python 3
-* you will get nano screen to edit as following 
-![Alt text](1.png?raw=true "Title")
-* write ``` alias python = python3``` as shown to make the default version is python3
-* press (CTRL + O) then ENTER to save what you have done then press (CTRL + X) to exit from nano
-* to make a double check write the version command and it will be 3.x.x this time  
+* write the password and just wait for installing python 3 "if enter needed just press it"
+* to make a double check write the following command again
 ```
-$ python --version 
+$ python --version
 ```
+ if you see python 3.x.x so you have made python3 as a default interpreter. 
 ## Step 2
 * write in the terminal 
 ```
 $ python commands.py
 ```
-* now you will have choices to select and setup any pack in the script 
-### Congracts!, You just reached the end  
+* now you will see something like that 
+![command](1.png)
+### **Congracts!, You are ready to install any pack available in the script**   
