@@ -32,4 +32,4 @@ $ python commands.py
 ```
 * now you will see something like that 
 ![command](1.png)
-### **Congracts!, You are ready to install any pack available in the script**   
+### **Congrats!, You are ready to install any pack available in the script**   
