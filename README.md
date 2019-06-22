@@ -31,5 +31,5 @@ $ python --version
 $ python commands.py
 ```
 * now you will see something like that 
-![command](1.png)
+![command](2.png)
 ### **Congrats!, You are ready to install any pack available in the script**   
